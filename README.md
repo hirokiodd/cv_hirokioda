@@ -1,2 +1,1 @@
-# cv_hirokioda
-Academic CV
+# Academic CV Hiroki Oda
